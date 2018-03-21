@@ -1,0 +1,15 @@
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 92 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 94 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 102 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 670 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 719 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 719 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 664 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 645 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 646 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\HBE_MACROS.INC 626 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 238 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 240 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 249 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 251 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\USERS\HBE_000\PROJECTS\PIC\PIC16F628\MIDI_MAPPER\MAIN.ASM 259 : Register in operand not in bank 0.  Ensure that bank bits are correct.
